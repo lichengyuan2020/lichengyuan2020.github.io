@@ -62,4 +62,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 
--   _2023.06 - 2024.03_, [ByteDance](https://www.bytedance.com/zh/), China.
+-   _2023.06 - 2024.03_, [ByteDance](https://www.bytedance.com/zh/)’[Lark](https://www.larksuite.com/en_sg) Department, Beijing.
+
+-   _2022.06 - 2022.09_, [HIKVISION](https://www.hikvision.com/en/), Hangzhou.
