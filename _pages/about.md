@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: ''
+excerpt: ''
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+    - /about/
+    - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -21,15 +21,14 @@ I am currently a third-year master's student at Southeast University, under the 
 
 I have received the National Scholarship twice, in 2019 during my undergraduate studies and in 2023 during my master’s program, which is China’s highest student honor. In 2024, I was awarded the Zhishan Scholarship, Southeast University’s top prize. I also ranked first in my master’s program, 1st out of 130 students.
 
-
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper accepted by ICASSP 2025(CCF B).
-- *2023.02*: &nbsp;🎉🎉 One paper accepted by Mathematics(JCR Q1). 
 
-# 📝 Publications 
+-   _2024.12_: &nbsp;🎉🎉 One paper accepted by ICASSP 2025(CCF B).
+<!-- - *2023.02*: &nbsp;🎉🎉 One paper accepted by Mathematics(JCR Q1).  -->
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,23 +38,28 @@ My research interest includes neural machine translation and computer vision. I 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-   [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09* 
+
+-   _2021.10_
+-   _2021.09_
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+-   _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-   _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+-   _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-   _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2023.06 - 2024.03*, [ByteDance](https://www.bytedance.com/zh/), China.
+
+-   _2023.06 - 2024.03_, [ByteDance](https://www.bytedance.com/zh/), China.
