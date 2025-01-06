@@ -61,6 +61,9 @@ Keywords:
 -   Asian giant hornet
 -   GM-Logistic model
 -   Cost-sensitive RF model
+
+Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 of the journal.
+
 </div>
 </div>
 
