@@ -90,7 +90,7 @@ Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 
 -   2020.06 WUT Outstanding Volunteer Service Individual
 -   2019.06 WUT Outstanding Communist Youth League Member
 
-# 🥇 Mathematics & Programming Achievements
+# 🥇 Mathematics and Programming Achievements
 
 ### Mathematics Competitions
 
