@@ -19,9 +19,9 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am currently a third-year master's student at Southeast University, under the supervision of Professor [Hui Xue](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi](https://cs.seu.edu.cn/qilei/main.htm). My research interests include large-scale vision-language models (VLMs), computer vision, zero/few-shot learning, and anomaly detection. Prior to this, I obtained a bachelor's degree in Computer Science and Technology from Wuhan University of Technology.
+I am currently a third-year master’s student at Southeast University, supervised by Professor [Hui Xue](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi](https://cs.seu.edu.cn/qilei/main.htm). My research interests include large-scale vision-language models (VLMs), computer vision, zero/few-shot learning, and anomaly detection. Prior to this, I completed my bachelor’s degree in Computer Science and Technology at Wuhan University of Technology.
 
-I have received the National Scholarship twice, in 2019 during my undergraduate studies and in 2023 during my master’s program, which is China’s highest student honor. In 2024, I was awarded the Zhishan Scholarship, Southeast University’s top prize. I also ranked first in my master’s program, 1st out of 130 students.
+I ranked **1st** in my major out of 129 students, achieving an **outstanding GPA**, and was honored with the **National Scholarship twice** (in 2019 and 2023), demonstrating my consistent academic excellence. As the **first author** of papers published in **SCI journals (JCR Q1)** and a presenter at **ICASSP 2025 (CCF B)**, my research focuses on key AI topics, including **Large visual-language models** and **anomaly detection**.
 
 # 🔥 News
 
