@@ -30,20 +30,39 @@ I have received the National Scholarship twice, in 2019 during my undergraduate 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KAnoCLIP_icassp_overview' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration](https://ieeexplore.ieee.org/document/10647822)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chengyuan Li**, Suyang Zhou, Jieping Kong, Lei Qi, Hui Xue
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**GitHub**](https://github.com/rolsheng/OpenDet-D) -->
 
--   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+Keywords:
+
+-   Zero-shot Anomaly Detection
+-   Large Vision-Language Models
+-   Prompt Learning
 </div>
 </div>
 
--   [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/CSRF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Spread Prediction and Classification of Asian Giant Hornets Based on GM-Logistic and CSRF Models](https://www.mdpi.com/2227-7390/11/6/1332#)
+
+**Chengyuan Li**, Haoran Zhu, Hanjun Luo, Suyang Zhou, Jieping Kong, Lei Qi and Congjun Rao
+
+<!-- [**GitHub**](https://github.com/rolsheng/MM-VUFM4DS) -->
+
+Keywords:
+
+-   Asian giant hornet
+-   GM-Logistic model
+-   Cost-sensitive RF model
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
@@ -86,15 +105,8 @@ I have received the National Scholarship twice, in 2019 during my undergraduate 
 -   _2022.09 - 2025.06(now)_, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
 -   _2018.09 - 2022.06_, Bachelor, [School of Computer and Artificial Intelligence](http://cst.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), Wuhan.
 
-<!-- # 💬 Invited Talks
-
--   _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--   _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
 
--   **2023.06 - 2024.03** | **ByteDance** | **TikTok Department**, Beijing  
-    [ByteDance](https://www.bytedance.com/zh/) | [TikTok](https://www.tiktok.com/about)
+-   **2023.06 - 2024.03** | **[ByteDance](https://www.bytedance.com/zh/)** | **[TikTok](<(https://www.tiktok.com/about)>) Department**, Beijing
 
--   **2022.06 - 2022.09** | **Hikvision AI Lab**, Hangzhou  
-    [Hikvision](https://www.hikvision.com/en/)
+-   **2022.06 - 2022.09** | **[Hikvision AI Lab](https://www.hikvision.com/en/)**, Hangzhou
