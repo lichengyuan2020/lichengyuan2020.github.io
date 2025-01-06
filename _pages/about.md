@@ -30,7 +30,7 @@ I have received the National Scholarship twice, in 2019 during my undergraduate 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KAnoCLIP_icassp_overview' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KAnoCLIP_icassp_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration](https://ieeexplore.ieee.org/document/10647822)
@@ -47,7 +47,7 @@ Keywords:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/CSRF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/CSRF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spread Prediction and Classification of Asian Giant Hornets Based on GM-Logistic and CSRF Models](https://www.mdpi.com/2227-7390/11/6/1332#)
@@ -107,6 +107,8 @@ Keywords:
 
 # 💻 Internships
 
--   **2023.06 - 2024.03** | **[ByteDance](https://www.bytedance.com/zh/)** | **[TikTok](<(https://www.tiktok.com/about)>) Department**, Beijing
+**2023.06 - 2024.03** | **ByteDance** | **TikTok Department**, Beijing
+[ByteDance](https://www.bytedance.com/zh/) | [TikTok](https://www.tiktok.com/about)
 
--   **2022.06 - 2022.09** | **[Hikvision AI Lab](https://www.hikvision.com/en/)**, Hangzhou
+**2022.06 - 2022.09** | **Hikvision AI Lab**, Hangzhou
+[Hikvision](https://www.hikvision.com/en/)
