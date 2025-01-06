@@ -23,7 +23,7 @@ I am currently pursuing a Master’s degree in Software Engineering at Southeast
 
 I ranked **1st** in my major out of 129 students, achieving an **outstanding GPA**, and was honored with the **National Scholarship twice** (in 2019 and 2023), demonstrating my consistent academic excellence. As the **first author** of papers published in **SCI journals (JCR Q1, cover paper)** and a presenter at **ICASSP 2025 (CCF B)**, my research focuses on key AI topics, including **Large visual-language models** and **anomaly detection**.
 
-I have also strengthened my **mathematical** and **programming** skills, earning over **10** awards in national competitions. Notably, I was a **Finalist** in the **U.S. Mathematical Contest in Modeling** (top 1%) and received a **Silver Medal** in the **Huawei Computer Programming Contest**. During my **9-month internship** at ByteDance's **TikTok** Department, I applied my research to **real-world AI projects**, further enhancing my **practical experience**.
+I have also strengthened my **mathematical** and **programming** skills, earning over **10** awards in national competitions. Notably, I was a **Finalist** in the **U.S. Mathematical Contest in Modeling** (Team Leader, Global Top 1%) and received a **Silver Medal** in the **Huawei Computer Programming Contest**. During my **9-month internship** at ByteDance's **TikTok** Department, I applied my research to **real-world AI projects**, further enhancing my **practical experience**.
 
 # 🔥 News
 
