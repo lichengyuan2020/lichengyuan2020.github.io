@@ -66,6 +66,21 @@ I have received the National Scholarship twice, in 2019 during my undergraduate 
 -   2020.06 WUT Outstanding Volunteer Service Individual
 -   2019.06 WUT Outstanding Communist Youth League Member
 
+# 🥇 Mathematics & Programming Achievements
+
+### Mathematics Competitions
+
+-   **Second Prize** in the National College Student Mathematical Contest
+-   **Finalist** in the U.S. Mathematical Contest in Modeling (Team Leader, Global Top 1%)
+-   **First Prize** in the APMCM (Asia-Pacific Mathematical Contest in Modeling) (Team Leader, Top 5%)
+
+### Programming Competitions
+
+-   **Gold Medal** in the China National Collegiate Computer Competition (Team Programming)
+-   **Silver Medal** in the Huawei Green Computing Innovation Competition
+-   **Silver Medal** in the Lanqiao Cup C/C++ Programming (University A Group)
+-   **Bronze Medal** in the National Algorithm Design and Programming Challenge
+
 # 📖 Educations
 
 -   _2022.09 - 2025.06(now)_, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
