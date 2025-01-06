@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am currently a third-year master’s student at Southeast University, supervised by Professor [Hui Xue](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi](https://cs.seu.edu.cn/qilei/main.htm). Prior to this, I completed my bachelor’s degree in Computer Science and Technology at Wuhan University of Technology.
+I am currently pursuing a Master’s degree in Software Engineering at Southeast University, with an expected graduation date of June 2025. My studies are supervised by Professor [Hui Xue](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi](https://cs.seu.edu.cn/qilei/main.htm). Prior to this, I completed my bachelor’s degree in Computer Science and Technology at Wuhan University of Technology.
 
 I ranked **1st** in my major out of 129 students, achieving an **outstanding GPA**, and was honored with the **National Scholarship twice** (in 2019 and 2023), demonstrating my consistent academic excellence. As the **first author** of papers published in **SCI journals (JCR Q1, cover paper)** and a presenter at **ICASSP 2025 (CCF B)**, my research focuses on key AI topics, including **Large visual-language models** and **anomaly detection**.
 
