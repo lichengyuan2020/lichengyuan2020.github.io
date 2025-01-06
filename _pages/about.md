@@ -19,11 +19,11 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am currently pursuing a Master’s degree in Software Engineering at Southeast University, with an expected graduation date of June 2025. My studies are supervised by Professor [Hui Xue](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi](https://cs.seu.edu.cn/qilei/main.htm). Prior to this, I completed my bachelor’s degree in Computer Science and Technology at Wuhan University of Technology.
+I am currently pursuing a Master’s degree in Software Engineering at Southeast University, expecting to graduate in June 2025, under the supervision of Professor [Hui Xue](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi](https://cs.seu.edu.cn/qilei/main.htm),both experts in machine learning and computer vision. I completed my Bachelor’s degree in Computer Science and Technology at Wuhan University of Technology.
 
-I ranked **1st** in my major out of 129 students, achieving an **outstanding GPA**, and was honored with the **National Scholarship twice** (in 2019 and 2023), demonstrating my consistent academic excellence. As the **first author** of papers published in **SCI journals (JCR Q1, cover paper)** and a presenter at **ICASSP 2025 (CCF B)**, my research focuses on key AI topics, including **Large visual-language models** and **anomaly detection**.
+I ranked **1st** in my major (out of 129 students) with an **outstanding GPA** and have received the **National Scholarship twice** (2019 and 2023). As the **first author** of papers published in **SCI journals (JCR Q1, cover paper)** and a presenter at **ICASSP 2025 (CCF B)**, my research focuses on **AI topics** such as large visual-language models and anomaly detection.
 
-I have also strengthened my **mathematical** and **programming** skills, earning over **10** awards in national competitions. Notably, I was a **Finalist** in the **U.S. Mathematical Contest in Modeling** (Team Leader, Global Top 1%) and received a **Silver Medal** in the **Huawei Computer Programming Contest**. During my **9-month internship** at ByteDance's **TikTok** Department, I applied my research to **real-world AI projects**, further enhancing my **practical experience**.
+I have also earned over **10** awards in national **mathematics and programming competitions**, including being a **finalist (Team Leader, Global Top 1%)** in the **U.S. Mathematical Contest in Modeling** and winning a **Silver Medal** in the **Huawei Computer Programming Contest**. During my **9-month internship** at ByteDance’s **TikTok** Department, I applied my research to AI projects, enhancing my practical experience.
 
 # 🔥 News
 
