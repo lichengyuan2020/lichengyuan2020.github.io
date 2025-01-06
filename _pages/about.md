@@ -21,12 +21,10 @@ I am currently a third-year master's student at Southeast University, under the 
 
 I have received the National Scholarship twice, in 2019 during my undergraduate studies and in 2023 during my master’s program, which is China’s highest student honor. In 2024, I was awarded the Zhishan Scholarship, Southeast University’s top prize. I also ranked first in my master’s program, 1st out of 130 students.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 # 🔥 News
 
 -   _2024.12_: &nbsp;🎉🎉 One paper accepted by ICASSP 2025(CCF B).
-<!-- - *2023.02*: &nbsp;🎉🎉 One paper accepted by Mathematics(JCR Q1).  -->
+-   _2023.02_: &nbsp;🎉🎉 One paper accepted by Mathematics(JCR Q1).
 
 # 📝 Publications
 
@@ -47,21 +45,37 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 
--   _2021.10_
--   _2021.09_
+**Scholarship**
+
+-   2023.12 National Scholarship (Graduate) (Top 1)
+-   2019.12 National Scholarship (Undergraduate) (Top 1)
+-   2024.12 Zhi-Shan Scholarship (Southeast University’s top prize)
+-   2023.12 SEU First-Class Scholarship（TOP 5%）
+
+**Honors**
+
+-   2024.10 SEU Outstanding Graduate Communist Party Member
+-   2024.10 SEU Outstanding Graduate Cadre
+-   2023.10 SEU Model Graduate Student of Excellence (Top 1%)
+
+-   2022.06 WUT Outstanding Graduate
+-   2022.06 WUT Excellent Student of the Year
+-   2021.06 WUT Advanced Individual in Diligence and Academic Excellence
+-   2020.06 WUT Outstanding Volunteer Service Individual
+-   2019.06 WUT Outstanding Communist Youth League Member
 
 # 📖 Educations
 
--   _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--   _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-   _2022.09 - 2025.06(now)_, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
+-   _2018.09 - 2022.06_, Bachelor, [School of Computer and Artificial Intelligence](http://cst.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), Wuhan.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 
 -   _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--   _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
+-   _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 
--   _2023.06 - 2024.03_, [ByteDance](https://www.bytedance.com/zh/)’[Lark](https://www.larksuite.com/en_sg) Department, Beijing.
+-   _2023.06 - 2024.03_, [ByteDance](https://www.bytedance.com/zh/) [TikTok](https://www.tiktok.com/about), Beijing.
 
--   _2022.06 - 2022.09_, [HIKVISION](https://www.hikvision.com/en/), Hangzhou.
+-   _2022.06 - 2022.09_, [HIKVISION](https://www.hikvision.com/en/) AI lab, Hangzhou.
