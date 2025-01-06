@@ -47,14 +47,14 @@ I have received the National Scholarship twice, in 2019 during my undergraduate 
 
 # 🎖 Honors and Awards
 
-**Scholarship**
+### Scholarship
 
 -   2023.12 National Scholarship (Graduate) (Top 1)
 -   2019.12 National Scholarship (Undergraduate) (Top 1)
 -   2024.12 Zhi-Shan Scholarship (Southeast University’s top prize)
 -   2023.12 SEU First-Class Scholarship（TOP 5%）
 
-**Honors**
+### Honors
 
 -   2024.10 SEU Outstanding Graduate Communist Party Member
 -   2024.10 SEU Outstanding Graduate Cadre
@@ -93,6 +93,8 @@ I have received the National Scholarship twice, in 2019 during my undergraduate 
 
 # 💻 Internships
 
--   _2023.06 - 2024.03_, [ByteDance](https://www.bytedance.com/zh/) [TikTok](https://www.tiktok.com/about), Beijing.
+-   **2023.06 - 2024.03** | **ByteDance** | **TikTok Department**, Beijing  
+    [ByteDance](https://www.bytedance.com/zh/) | [TikTok](https://www.tiktok.com/about)
 
--   _2022.06 - 2022.09_, [HIKVISION](https://www.hikvision.com/en/) AI lab, Hangzhou.
+-   **2022.06 - 2022.09** | **Hikvision AI Lab**, Hangzhou  
+    [Hikvision](https://www.hikvision.com/en/)
