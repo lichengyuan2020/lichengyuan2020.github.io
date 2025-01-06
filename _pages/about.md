@@ -107,5 +107,11 @@ Keywords:
 
 # 💻 Internships
 
--   **2023.06 - 2024.03** | **ByteDance** | **TikTok Department**, Beijing
--   **2022.06 - 2022.09** | **Hikvision** | **AI Lab**, Hangzhou
+-   **2023.06 - 2024.03**  
+    **ByteDance** | **TikTok Department**, Beijing
+
+-   **2023.02 - 2023.05**  
+    **CHINA HI-TECH** | **Software Department**, Suzhou
+
+-   **2022.06 - 2022.09**  
+    **Hikvision** | **AI Lab**, Hangzhou
