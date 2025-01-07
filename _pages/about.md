@@ -67,26 +67,22 @@ Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Awards
 
 ### Scholarship
 
--   2023.12 National Scholarship (Graduate) (Top 1)
--   2019.12 National Scholarship (Undergraduate) (Top 1)
--   2024.12 Zhi-Shan Scholarship (Southeast University’s top prize)
--   2023.12 SEU First-Class Scholarship（TOP 5%）
+-   2023.12, National Scholarship (Graduate) – Top 1 | 本科生国家奖学金
+-   2019.12, National Scholarship (Undergraduate) – Top 1 | 研究生国家奖学金
+-   2024.12, Zhi-Shan Scholarship – Southeast University’s top prize | 至善奖学金
+-   2023.12, SEU First-Class Scholarship – Top 5% | 东南大学一等奖学金
 
 ### Honors
 
--   2024.10 SEU Outstanding Graduate Communist Party Member
--   2024.10 SEU Outstanding Graduate Cadre
--   2023.10 SEU Model Graduate Student of Excellence (Top 1%)
-
--   2022.06 WUT Outstanding Graduate
--   2022.06 WUT Excellent Student of the Year
--   2021.06 WUT Advanced Individual in Diligence and Academic Excellence
--   2020.06 WUT Outstanding Volunteer Service Individual
--   2019.06 WUT Outstanding Communist Youth League Member
+-   2024, Outstanding Graduate Communist Party Member, Southeast University
+-   2023, Model Graduate Student of Excellence (Top 1%), Southeast University
+-   2022, Outstanding Graduate, Wuhan University of Technology
+-   2022, Excellent Student of the Year, Wuhan University of Technology
+-   2020, Outstanding Volunteer Service Individual, Wuhan University of Technology
 
 # 🥇 Mathematics and Programming Achievements
 
