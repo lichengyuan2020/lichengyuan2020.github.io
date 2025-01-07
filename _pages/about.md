@@ -71,10 +71,10 @@ Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 
 
 ### Scholarship
 
--   **2023.12** National Scholarship (Graduate) – Top 1 | **本科生国家奖学金**
--   **2019.12** National Scholarship (Undergraduate) – Top 1 | **研究生国家奖学金**
--   **2024.12** Zhi-Shan Scholarship – Southeast University’s top prize | **至善奖学金**
--   **2023.12** SEU First-Class Scholarship – Top 5% | **东南大学一等奖学金**
+-   2023.12 National Scholarship (Graduate) – Top 1 \| **本科生国家奖学金**
+-   2019.12 National Scholarship (Undergraduate) – Top 1 \| **研究生国家奖学金**
+-   2024.12 Zhi-Shan Scholarship – Southeast University’s top prize \| **至善奖学金**
+-   2023.12 SEU First-Class Scholarship – Top 5% \| **东南大学一等奖学金**
 
 ### Honors
 
