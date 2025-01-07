@@ -67,7 +67,7 @@ Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 
 </div>
 </div>
 
-# 🎖 Awards
+# 🎖 Honors and Awards
 
 ### Scholarship
 
