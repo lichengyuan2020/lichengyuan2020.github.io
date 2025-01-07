@@ -65,7 +65,7 @@ Keywords:
 -   GM-Logistic model
 -   Cost-sensitive RF model
 
-Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 of the journal (JCR Q1).
+Note: This paper was selected as the **cover paper** for Volume 11, Issue 6 of the journal (JCR Q1).
 
 </div>
 </div>
