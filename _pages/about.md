@@ -113,10 +113,10 @@ Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 
 # 💻 Internships
 
 -   **2023.06 - 2024.03**  
-    **ByteDance** | **TikTok Department**, Beijing
+    **[ByteDance](https://www.bytedance.com/en/)** | **[TikTok](https://www.tiktok.com/about) Department**, Beijing
 
 -   **2023.02 - 2023.05**  
-    **CHINA HI-TECH** | **Software Department**, Suzhou
+    **[CHINA HI-TECH](http://www.chinahitech.com.cn/#/)** | **Software Department**, Suzhou
 
 -   **2022.06 - 2022.09**  
-    **Hikvision** | **AI Lab**, Hangzhou
+    **[Hikvision](https://www.hikvision.com/en/)** | **AI Lab**, Hangzhou
