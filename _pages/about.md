@@ -44,6 +44,9 @@ Keywords:
 -   Zero-shot Anomaly Detection
 -   Large Vision-Language Models
 -   Prompt Learning
+
+Note: This paper was accepted by ICASSP 2025(CCF B).
+
 </div>
 </div>
 
