@@ -25,8 +25,8 @@ I ranked 1st in my major (129 students) with a GPA of 3.9/4.0 and have received 
 
 # 🔥 News
 
--   _2024.12_: &nbsp;🎉🎉 One paper accepted by ICASSP 2025(CCF B).
--   _2023.02_: &nbsp;🎉🎉 One paper accepted by Mathematics(JCR Q1, cover paper).
+-   _2024.12_: &nbsp;🎉🎉 One paper accepted by ICASSP 2025 (CCF B).
+-   _2023.02_: &nbsp;🎉🎉 One paper accepted by Mathematics (JCR Q1, cover paper).
 
 # 📝 Publications
 
@@ -45,7 +45,7 @@ Keywords:
 -   Large Vision-Language Models
 -   Prompt Learning
 
-Note: This paper was accepted by ICASSP 2025(CCF B).
+Note: This paper was accepted by ICASSP 2025 (CCF B).
 
 </div>
 </div>
