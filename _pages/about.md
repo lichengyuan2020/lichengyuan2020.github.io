@@ -49,7 +49,7 @@ Keywords:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/math.jpeg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematics</div><img src='images/math.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Spread Prediction and Classification of Asian Giant Hornets Based on GM-Logistic and CSRF Models](https://www.mdpi.com/2227-7390/11/6)
