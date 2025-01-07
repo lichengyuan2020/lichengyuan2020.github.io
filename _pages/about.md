@@ -107,7 +107,7 @@ Note: This paper was also selected as the **cover paper** of Volume 11, Issue 6 
 
 # 📖 Educations
 
--   _2022.09 - 2025.06(now)_, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
+-   _2022.09 - 2025.06 (now)_, Master, [School of Software Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing.
 -   _2018.09 - 2022.06_, Bachelor, [School of Computer and Artificial Intelligence](http://cst.whut.edu.cn/), [Wuhan University of Technology](https://www.whut.edu.cn/), Wuhan.
 
 # 💻 Internships
