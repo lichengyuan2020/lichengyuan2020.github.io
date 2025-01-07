@@ -23,7 +23,7 @@ I am currently pursuing a Master’s degree in Software Engineering at Southeast
 
 I ranked 1st in my major (out of 129 students) with an outstanding GPA and have received the National Scholarship twice (2019 and 2023). As the first author of papers published in SCI journals (JCR Q1, cover paper) and a presenter at ICASSP 2025 (CCF B), my research focuses on AI topics, including large visual-language models and anomaly detection.
 
-I have also earned over 10 awards in national mathematics and programming competitions, including being a finalist (Team Leader, Top 1%) in the U.S. Mathematical Contest in Modeling and winning a Silver Medal in the Huawei Programming Contest. During my 9-month internship at ByteDance’s TikTok Department, I applied my research to AI projects, enhancing my practical experience.
+I have also earned over 10 awards in national mathematics and programming competitions, including being a finalist (Team Leader, Global Top 1%) in the U.S. Mathematical Contest in Modeling and winning a Silver Medal in the Huawei Programming Contest. During my 9-month internship at ByteDance’s TikTok Department, I applied my research to AI projects, enhancing my practical experience.
 
 # 🔥 News
 
