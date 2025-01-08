@@ -33,7 +33,7 @@ I ranked 1st in my major (129 students) with a GPA of 3.9/4.0 and have received 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KAnoCLIP_icassp_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration](https://ieeexplore.ieee.org/document/10647822)
+[KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration](https://arxiv.org/abs/2501.03786)
 
 **Chengyuan Li**, Suyang Zhou, Jieping Kong, Lei Qi, Hui Xue
 
