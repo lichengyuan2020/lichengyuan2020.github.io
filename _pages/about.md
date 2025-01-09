@@ -120,8 +120,6 @@ Note: This paper was selected as the **cover paper** for Volume 11, Issue 6 of t
 -   **2022.06 - 2022.09**
      **[Hikvision](https://www.hikvision.com/en/)** | **AI Lab**, Hangzhou -->
 
-### 2023.06 - 2024.03
-
 | **Date**              | **Company**                                       | **Role & Contributions**                                       |
 | --------------------- | ------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **2023.06 - 2024.03** | [ByteDance](https://www.bytedance.com/en/)        | **[TikTok](https://www.tiktok.com/about) Department**, Beijing | - Contributed to Douyin CRM’s big data platform development. <br> - Developed an AI Q&A assistant for sales data analysis. <br> - Optimized natural language to SQL conversion through model training and prompt tuning.                                                                     |
