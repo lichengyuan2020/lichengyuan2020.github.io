@@ -19,9 +19,11 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am currently pursuing a Master’s degree in Software Engineering at Southeast University, expecting to graduate in June 2025. My studies are supervised by Professor [Hui Xue (薛晖)](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi (祁磊)](https://cs.seu.edu.cn/qilei/main.htm), both experts in machine learning and computer vision. I completed my Bachelor’s degree in Computer Science at Wuhan University of Technology.
+I am currently pursuing a Master’s degree in Software Engineering at Southeast University, with an expected graduation in June 2025. My academic journey is supervised by Professor [Hui Xue (薛晖)](https://cs.seu.edu.cn/hxue/main.htm) and Associate Professor [Lei Qi (祁磊)](https://cs.seu.edu.cn/qilei/main.htm), both renowned experts in machine learning and computer vision. I earned my Bachelor’s degree in Computer Science from Wuhan University of Technology.
 
-I ranked 1st in my major (129 students) with a GPA of 3.9/4.0 and have received the National Scholarship twice (2019, 2023). As the first author of papers in SCI journals (JCR Q1, cover paper) and a presenter at ICASSP 2025 (CCF B), my research covers Computer Vision (e.g., large vision-language models, anomaly detection, semantic segmentation), Machine Learning (e.g., diffusion models, unsupervised learning), and Data Mining (e.g., Partial Label Learning). [CV (个人简历)](./ChengyuanLi_CV.pdf)
+Throughout my academic career, I have consistently excelled. I ranked 1st in my major (out of 129 students) with a GPA of 3.9/4.0, and have been awarded the prestigious National Scholarship twice (2019 and 2023). In research, I am the first author of multiple papers published in high-impact SCI journals (JCR Q1, with a cover paper), and I will present my work at ICASSP 2025 (CCF B). My research interests span several areas, including Computer Vision (e.g., large vision-language models, anomaly detection, semantic segmentation), Machine Learning (e.g., diffusion models, unsupervised learning), and Data Mining (e.g., Partial Label Learning).
+
+You can view my [CV (个人简历)](./ChengyuanLi_CV.pdf).
 
 # 🔥 News
 
