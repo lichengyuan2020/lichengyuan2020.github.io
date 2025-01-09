@@ -111,11 +111,35 @@ Note: This paper was selected as the **cover paper** for Volume 11, Issue 6 of t
 
 # 💻 Internships
 
--   **2023.06 - 2024.03**  
+<!-- -   **2023.06 - 2024.03**
     **[ByteDance](https://www.bytedance.com/en/)** | **[TikTok](https://www.tiktok.com/about) Department**, Beijing
 
--   **2023.02 - 2023.05**  
+-   **2023.02 - 2023.05**
     **[CHINA HI-TECH](http://www.chinahitech.com.cn/#/)** | **Software Department**, Suzhou
 
--   **2022.06 - 2022.09**  
-    **[Hikvision](https://www.hikvision.com/en/)** | **AI Lab**, Hangzhou
+-   **2022.06 - 2022.09**
+     **[Hikvision](https://www.hikvision.com/en/)** | **AI Lab**, Hangzhou -->
+
+### 2023.06 - 2024.03
+
+**[ByteDance](https://www.bytedance.com/en/)** | **[TikTok](https://www.tiktok.com/about) Department**, Beijing
+
+-   Contributed to Douyin CRM’s big data platform development.
+-   Developed an AI Q&A assistant for sales data analysis.
+-   Optimized natural language to SQL conversion through model training and prompt tuning.
+
+### 2023.02 - 2023.05
+
+**[CHINA HI-TECH](http://www.chinahitech.com.cn/#/)** | **Software Department**, Suzhou
+
+-   Led a team to develop **Huihu Garbage Sort**, a WeChat mini-program with VUE backend.
+-   Integrated a Res2Net-based photo recognition module for improved sorting accuracy.
+-   **GitHub:** [Huihu Garbage Sort](https://github.com/lichengyuan2020/huihu-garbage-sort-miniprogram)
+
+### 2022.06 - 2022.09
+
+**[Hikvision](https://www.hikvision.com/en/)** | **AI Lab**, Hangzhou
+
+-   Developed and tested deep learning models using PyTorch and C++.
+-   Contributed to a research paper on person re-identification.
+-   Gained experience in AI project workflows and research documentation.
