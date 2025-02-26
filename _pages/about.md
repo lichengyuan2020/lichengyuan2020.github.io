@@ -112,6 +112,7 @@ Note: This paper was selected as the **cover paper** for Volume 11, Issue 6 of t
 # 💻 Internships
 
 <!-- -   **2023.06 - 2024.03**
+///
     **[ByteDance](https://www.bytedance.com/en/)** | **[TikTok](https://www.tiktok.com/about) Department**, Beijing
 
 -   **2023.02 - 2023.05**
