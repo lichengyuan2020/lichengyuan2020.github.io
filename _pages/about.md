@@ -35,7 +35,7 @@ You can view my [CV (个人简历)](./ChengyuanLi_CV.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/KAnoCLIP_icassp_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration](https://arxiv.org/abs/2501.03786)
+[KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration](https://ieeexplore.ieee.org/document/10888834)
 
 **Chengyuan Li**, Suyang Zhou, Jieping Kong, Lei Qi, Hui Xue
 
